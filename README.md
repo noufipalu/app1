@@ -1,6 +1,6 @@
 # app1
 
-A new Flutter project.
+Flutter project to call API using http
 
 ## Getting Started
 
